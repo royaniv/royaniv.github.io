@@ -19,8 +19,8 @@ I am also a science editor for the Davidson Institute, where I edit popular scie
 
 ---
 
+# ℹ️ More info:
 [Lancet Lab website](https://www.weizmann.ac.il/molgen/Lancet/)
-
 [CV](CV-Roy-Yaniv.pdf)
 
 
