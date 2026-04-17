@@ -1,7 +1,7 @@
 # Welcome
 ![pic](./74579.jpg)
 
-Hi my name is Roy Yaniv, I work on origin of life research with Prof. Doron Lancet, focusing on lipid-first models and systems chemistry. My work includes conceptual development of theoretical frameworks for lipid-based protocells; investigating compositional inheritance and early Darwinian evolution; and exploring their implications for astrobiology and life-detection strategies.
+👋 Hi my name is Roy Yaniv, I work on origin of life research with Prof. Doron Lancet, focusing on lipid-first models and systems chemistry. My work includes conceptual development of theoretical frameworks for lipid-based protocells; investigating compositional inheritance and early Darwinian evolution; and exploring their implications for astrobiology and life-detection strategies.
 Third line
 
 ## Further work
@@ -9,7 +9,7 @@ I am also a science editor for the Davidson Institute, where I edit popular scie
 
 ---
 ###
-I am taking the Python programming course to further my skills and hopefully utilize the skills i learn in future work.
+🐍 I am taking the Python programming course to further my skills and hopefully utilize the skills i learn in future work.
 
 ---
 
