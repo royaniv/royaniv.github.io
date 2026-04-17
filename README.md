@@ -11,4 +11,4 @@ I am also a science editor for the Davidson Institute, wehre I edit popular scie
 
 [Lancet Lab website](https://www.weizmann.ac.il/molgen/Lancet/)
 
-![CV](./CV Roy Yaniv 21.3.26.docx)
+![CV](./CV Roy Yaniv 21.3.26.pdf)
