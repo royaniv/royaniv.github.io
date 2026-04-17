@@ -20,10 +20,8 @@ In addition I am also a science editor at the Davidson Institute, wehre i edit p
 1. snake
 1. crab
 
-[Git Maven](https://git.code-maven.com/)
+[Lancet Lab website](https://www.weizmann.ac.il/molgen/Lancet/)
 
-![CV](CV Roy Yaniv 21.3.26.docx)
+[CV](./CV Roy Yaniv 21.3.26.docx)
 
-## Windows
 
-[hello](./hello.md)
