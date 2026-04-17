@@ -19,7 +19,7 @@ Third line
 
 [Git Maven](https://git.code-maven.com/)
 
-![this is a big animal](Picture3.png)
+![CV](CV Roy Yaniv 21.3.26.docx)
 
 ## Windows
 
