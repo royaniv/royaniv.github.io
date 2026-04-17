@@ -15,3 +15,5 @@ I am also a science editor for the Davidson Institute, where I edit popular scie
 [Lancet Lab website](https://www.weizmann.ac.il/molgen/Lancet/)
 
 [CV](CV-Roy-Yaniv.pdf)
+
+![The origin of life all the way to LUCA (the Last Universal Common Ancestor) via Darwinian evolution](./Picture3.png)
