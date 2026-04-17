@@ -5,7 +5,11 @@ Hi my name is Roy Yaniv, I work on origin of life research with Prof. Doron Lanc
 Third line
 
 ## Further work
-I am also a science editor for the Davidson Institute, wehre I edit popular science articles you might have seen on the Davidson website or even sometimes on YNET.
+I am also a science editor for the Davidson Institute, where I edit popular science articles you might have seen on the Davidson website or even sometimes on YNET.
+
+---
+###
+I am taking the Python programming course to further my skills and hopefully utilize the skills i learn in future work.
 
 ---
 
