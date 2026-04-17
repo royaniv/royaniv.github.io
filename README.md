@@ -15,7 +15,7 @@ I am also a science editor for the Davidson Institute, where I edit popular scie
 
 ---
 
-🐍 I am taking the Python programming course to further my skills and hopefully utilize the skills i learn in future work.
+🐍 I am taking the Python programming course to further my skills and hopefully utilize the skills I learn in future work.
 
 ---
 
